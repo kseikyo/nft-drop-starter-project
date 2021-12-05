@@ -1,0 +1,23 @@
+{
+  "name": "Business Ben",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+    "name": "Ben awad colletion",
+    "family": "Ben awad"
+ },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "MTeVq7pZwZkjEYhjmUS7GfDi4jPBC3887woHsfAfMdb",
+        "share": 100
+      }
+    ]
+  }
+}

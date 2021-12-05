@@ -1,0 +1,23 @@
+{
+  "name": "Dev Ben",
+  "symbol": "",
+  "image": "0.png",
+  "collection": {
+    "name": "Ben awad colletion",
+    "family": "Ben awad"
+ },
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "MTeVq7pZwZkjEYhjmUS7GfDi4jPBC3887woHsfAfMdb",
+        "share": 100
+      }
+    ]
+  }
+}
